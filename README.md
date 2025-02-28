@@ -2,13 +2,11 @@
 
 This repository contains **programming exercises and projects** conducted during my undergraduate studies at _Ewha Womans University_.
 
-### **2021 Spring**
+### **2021 - 2022**
 - **Python Programming** (Prof. Yeonkyung Kim) → `python-basics`
 - **Automata and Formal Languages** (Prof. Jaehyung Shim) → `automata`
 - **Web and Text Mining** (Prof. Hyunseok Park) → `text-mining`
 - **Basic Programming** (Prof. Dongseong Park) → `python-basics`
-
-### **2022 Spring**
 - **AI & Deep Learning** (Prof. Hyunseok Park) → `ml-ai`
 
 ## 📂 Folder Structure
